@@ -4,30 +4,16 @@
 
 ## Lab goals and instructions:
 
-![1](Screen Shot 2022-06-28 at 11.24.38 PM.png)
+![1](lab1.png)
 
-Part 1: Install and setup your personal computer with the software tools required for this course
+![2](lab12.png)
 
-Part 2: Practice using software tools
-
-Part 3: Practice terminal or shell commands
-
-Part 4: Practice keyboard shortcuts
-
-Part 5: Create your first Node.js server-side JavaScript file
+![3](lab13.png)
 
 
 
 ## Lab Deliverables:
 
-### 1. lab-01-folders.png
-![lab-01-folders.png](lab-01-folders.png)
+### 1. [hello-world.html](hello-world.html)
 
-### 2. [lab-01-folders.txt](lab-01-folders.txt)
 
-### 3. [lab-01.shortcuts.txt](lab-01-shortcuts.txt)
-
-### 4. [lab-01-node.js](lab-01-node.js)
-
-### 5. lab-01-node.png
-![lab-01-node.png](lab-01-node.png)
