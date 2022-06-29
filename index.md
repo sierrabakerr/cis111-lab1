@@ -4,13 +4,9 @@
 
 ## Lab goals and instructions:
 
-![1](lab1.png)
-
-![2](lab12.png)
-
-![3](lab13.png)
-
-
+During this lab, you will set up the required computing infrastructure on your personal 
+computer. You will also create your first HTML web page to put your knowledge into 
+practice. 
 
 ## Lab Deliverables:
 
