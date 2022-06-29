@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Lab 1
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cis111-lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lab goals and outcomes:
 
-### Markdown
+Part 1: Install and setup your personal computer with the software tools required for this course
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Part 2: Practice using software tools
 
-```markdown
-Syntax highlighted code block
+Part 3: Practice terminal or shell commands
 
-# Header 1
-## Header 2
-### Header 3
+Part 4: Practice keyboard shortcuts
 
-- Bulleted
-- List
+Part 5: Create your first Node.js server-side JavaScript file
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Lab Deliverables:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 1. lab-01-folders.png
+![lab-01-folders.png](lab-01-folders.png)
 
-### Jekyll Themes
+### 2. [lab-01-folders.txt](lab-01-folders.txt)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cis111-lab1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 3. [lab-01.shortcuts.txt](lab-01-shortcuts.txt)
 
-### Support or Contact
+### 4. [lab-01-node.js](lab-01-node.js)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 5. lab-01-node.png
+![lab-01-node.png](lab-01-node.png)
