@@ -4,6 +4,8 @@
 
 ## Lab goals and instructions:
 
+![1](Screen Shot 2022-06-28 at 11.24.38 PM.png)
+
 Part 1: Install and setup your personal computer with the software tools required for this course
 
 Part 2: Practice using software tools
